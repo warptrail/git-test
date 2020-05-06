@@ -1,0 +1,3 @@
+This is the new branch file
+It will only show up in the new branch
+Blood and honor!
