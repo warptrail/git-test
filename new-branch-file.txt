@@ -1,3 +1,4 @@
 This is the new branch file
 It will only show up in the new branch
 Blood and honor!
+Now this file will show up in the new branch and the master branch.
